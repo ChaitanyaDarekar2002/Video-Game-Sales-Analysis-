@@ -155,6 +155,7 @@ Deploy dashboard online
 This project demonstrates a complete data analytics workflow from raw data cleaning to business insight generation and dashboard visualization.
 
 **It highlights practical skills in:**
+
 **Data_Analysis**
 
 **Data Visualization**
@@ -165,13 +166,14 @@ This project demonstrates a complete data analytics workflow from raw data clean
 
 **Python Programming**
 
+
 👨‍💻 Author
 
 **Chaitanya Dareakr**
 
 Connect With Me
 
-GitHub:https://github.com/chaitanyadarekar2002-wq
+GitHub:https://github.com/chaitanyadarekar2002
 
 LinkedIn: 
 
